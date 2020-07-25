@@ -1,3 +1,3 @@
 # LaxmiThamishetty_Javascript_1
 
-In our Login username and  password we have to give admin as cerdenitals.
+If username and password is given as admin.Then we will go to login page.
